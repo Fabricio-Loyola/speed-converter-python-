@@ -3,11 +3,13 @@ Conversor de Velocidades con Búsqueda Binaria
 Este proyecto es una herramienta desarrollada en **Python** diseñada para la conversión de unidades de velocidad (km/h a mph) integrando gestión de persistencia de datos y algoritmos de búsqueda binaria.
 
 🚀 Funcionalidades
+
 **Conversión Precisa:** Realiza el cálculo de unidades con validación de entradas de usuario.
 **Persistencia en CSV:** Almacenamiento automático de cada conversión en un archivo histórico estructurado.
 **Búsqueda Eficiente:** Implementación de un algoritmo de Búsqueda Binaria para localizar registros específicos dentro del historial de manera rápida y eficiente.
 
 🛠️ Tecnologías Utilizadas
+
 **Python 3.13**
 **Módulo CSV:** Para el manejo de base de datos plana y persistencia.
 
@@ -18,6 +20,7 @@ También me enfoqué en el manejo de persistencia de archivos mediante el format
 Este proyecto refleja mi compromiso con el aprendizaje continuo y mi objetivo de insertarme profesionalmente en la industria del software durante este 2026.
 
 📋 Cómo Ejecutarlo
+
 1. Clona el repositorio:
    `git clone https://github.com/Fabricio-Loyola/speed-converter-python-`
 2. Navegar hacia la carpeta del proyecto.
