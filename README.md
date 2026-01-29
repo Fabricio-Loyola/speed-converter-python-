@@ -5,7 +5,9 @@ Este proyecto es una herramienta desarrollada en **Python** diseñada para la co
 🚀 Funcionalidades
 
 **Conversión Precisa:** Realiza el cálculo de unidades con validación de entradas de usuario.
+
 **Persistencia en CSV:** Almacenamiento automático de cada conversión en un archivo histórico estructurado.
+
 **Búsqueda Eficiente:** Implementación de un algoritmo de Búsqueda Binaria para localizar registros específicos dentro del historial de manera rápida y eficiente.
 
 🛠️ Tecnologías Utilizadas
