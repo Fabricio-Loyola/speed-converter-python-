@@ -1,0 +1,12 @@
+
+--Velocidades--
+100 en millas son 62.0 mph
+200 en millas son 124.0 mph
+300 en millas son 186.0 mph
+400 en millas son 248.0 mph
+500 en millas son 310.0 mph
+600 en millas son 372.0 mph
+700 en millas son 434.0 mph
+800 en millas son 496.0 mph
+900 en millas son 558.0 mph
+1000 en millas son 620.0 mph
